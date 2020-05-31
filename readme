@@ -1,0 +1,21 @@
+typescript install:-
+
+1. download noad js
+    node -v 
+2. npm install -g typescript
+    tsc -v
+3. tsc -- version
+
+
+first script
+
+1. file  -> app.ts
+2. tsc app.ts (compiler)
+
+run script
+
+1. node app.ts or app.js
+
+watch mode compile
+
+tsc app --watch
