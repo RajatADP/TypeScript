@@ -6,3 +6,4 @@ var Color;
 })(Color || (Color = {}));
 ;
 var backgroundColor = Color.BLUE;
+console.log(backgroundColor);

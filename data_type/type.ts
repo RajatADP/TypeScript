@@ -14,4 +14,3 @@ b=true;
 
 let e: number[] = [1,2,3];
 let d: any[] = [1, true, 'av'];
-
